@@ -1,7 +1,7 @@
 # Day-Dee-Eurodance-Radio-Kodi-Addon
 <p align="center">
 <img src="https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/raw/master/300x300.png" />
-[![AIG](https://img.shields.io/github/license/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon)](https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/blob/master/LICENSE)
+[![AUR](https://img.shields.io/github/license/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon)](https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/blob/master/LICENSE)
 
 Kodi plugin/addon for Day Dee Eurodance Radio
 
