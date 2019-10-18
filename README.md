@@ -1,4 +1,7 @@
 # Day-Dee-Eurodance-Radio-Kodi-Addon
+<p align="center">
+<img src="https://github.com/ngrock90/gnuradio/blob/master/docs/gnuradio.png" width="75%" />
+</p>
 Kodi plugin/addon for Day Dee Eurodance Radio
 
 https://daydeeeurodance.blogspot.com
