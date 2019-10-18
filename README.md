@@ -43,7 +43,12 @@ This Addon/Plugin works on all Kodi devices.
 Tested on Kodi v18.4 - Leia
 
 For more see this guide:
+
 https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file
+
+or
+
+https://kodi.wiki/view/Add-on_manager#How_to_install_add-ons_from_a_repository
 
 
 
