@@ -15,9 +15,23 @@ This is Kodi addon/plugin for Day Dee Eurodance Radio created 2019 by Ngrock90 f
 
 Before downloading Day Dee Eurodance Radio Kodi addon or plugin you need to download Kodi mobile app or desktop program first.
 
+Here is links for downloading Kodi:
+
+Windows: http://kodi.tv/download/849
+
+Linux: 
+
+Android: https://play.google.com/store/apps/details?id=org.xbmc.kodi
+
+Apple iOS: 
+
+pi Rassberry:
+
 # Installation
 
-Coming soon...
+After Kodi is download is finished for your device,now open Kodi and click to Settings icon>>>Add-ons>>>Install from zip file>>>External storage>>>Download>>>Than search file you have downloaded and click on it>>>After addon is installed you will see confirmation message in Kodi.Now go back to start of app and click My add-ons>>>Music add-ons>>>and click on Day Dee Eurodance Radio.
+
+Now radio should work on Kodi.
 
 
 
