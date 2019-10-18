@@ -46,7 +46,7 @@ Rasberry Pi: https://kodi.tv/download/853
 
 After Kodi download is finished for your device,open Kodi and follow next instructions:
 
-click to ## Settings icon>>>Add-ons>>>Install from zip file>>>External storage>>>Download>>>Than search file you have downloaded from our sources and click on it>>>After addon is installed you will see confirmation message in Kodi.Now go back to start of app and click My add-ons>>>Music add-ons>>>and click on Day Dee Eurodance Radio,if you hear the music addon works properly.
+click to Settings icon>>>Add-ons>>>Install from zip file>>>External storage>>>Download>>>Than search file you have downloaded from our sources and click on it>>>After addon is installed you will see confirmation message in Kodi.Now go back to start of app and click My add-ons>>>Music add-ons>>>and click on Day Dee Eurodance Radio,if you hear the music addon works properly.
 
 This Addon/Plugin works on all Kodi devices.
 
