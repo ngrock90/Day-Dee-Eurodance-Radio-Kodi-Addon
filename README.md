@@ -46,7 +46,8 @@ Here is links for downloading Kodi:
 
 After Kodi download is finished for your device,open Kodi and follow next instructions:
 
-click to Settings icon>>>Add-ons>>>Install from zip file>>>External storage>>>Download>>>Than search file you have downloaded from our sources and click on it>>>After addon is installed you will see confirmation message in Kodi.Now go back to start of app and click My add-ons>>>Music add-ons>>>and click on Day Dee Eurodance Radio,if you hear the music addon works properly.
+click to Settings icon>>>Add-ons>>>Install from zip file>>>External storage>>>Download>>>Than search file you have downloaded from our sources and click on it>>>After addon is installed you will see confirmation message in Kodi.Now go back to Home screen and click Add-ons>>>Music add-ons>>>and click on Day Dee Eurodance Radio,if you hear the music addon works properly.
+<img src="https://kodi.wiki/images/thumb/2/27/Add-ons-accessing-1.png/600px-Add-ons-accessing-1.png" /><img src="https://kodi.wiki/images/thumb/5/5d/Add-on_manager_main.png/600px-Add-on_manager_main.png" />
 
 This Addon/Plugin works on all Kodi devices.
 
