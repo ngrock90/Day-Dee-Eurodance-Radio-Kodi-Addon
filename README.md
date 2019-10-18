@@ -1,7 +1,7 @@
 # Day-Dee-Eurodance-Radio-Kodi-Addon
 <p align="center">
 <img src="https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/raw/master/300x300.png" />
-</p>
+
 Kodi plugin/addon for Day Dee Eurodance Radio
 
 https://daydeeeurodance.blogspot.com
@@ -9,7 +9,7 @@ https://daydeeeurodance.blogspot.com
 https://eurodance.ga
 
 https://laut.fm/daydeeeurodance
-
+</p>
 # Stream radio
 
 http://stream.laut.fm/daydeeeurodance
