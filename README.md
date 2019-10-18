@@ -19,19 +19,23 @@ Here is links for downloading Kodi:
 
 Windows: http://kodi.tv/download/849
 
-Linux: 
+Linux: https://kodi.tv/download
 
 Android: https://play.google.com/store/apps/details?id=org.xbmc.kodi
 
-Apple iOS: 
+Apple iOS: https://kodi.tv/download
 
-pi Rassberry:
+Rasberry Pi: https://kodi.wiki/view/HOW-TO:Install_Kodi_on_Raspberry_Pi
 
 # Installation
 
 After Kodi is download is finished for your device,now open Kodi and click to Settings icon>>>Add-ons>>>Install from zip file>>>External storage>>>Download>>>Than search file you have downloaded and click on it>>>After addon is installed you will see confirmation message in Kodi.Now go back to start of app and click My add-ons>>>Music add-ons>>>and click on Day Dee Eurodance Radio.
 
 Now radio should work on Kodi.
+
+For more see this guide:
+
+https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file
 
 
 
