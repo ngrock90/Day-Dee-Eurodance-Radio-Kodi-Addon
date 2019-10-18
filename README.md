@@ -1,6 +1,6 @@
 # Day-Dee-Eurodance-Radio-Kodi-Addon
 <p align="center">
-<img src="https://github.com/ngrock90/gnuradio/blob/master/docs/gnuradio.png" width="75%" />
+<img src="https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/raw/master/180x120.png" width="75%" />
 </p>
 Kodi plugin/addon for Day Dee Eurodance Radio
 
