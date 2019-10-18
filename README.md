@@ -19,13 +19,15 @@ Here is links for downloading Kodi:
 
 Windows: http://kodi.tv/download/849
 
-Linux: https://kodi.tv/download
+Linux: https://kodi.tv/download/850
+
+MacOS: https://kodi.tv/download/854
 
 Android: https://play.google.com/store/apps/details?id=org.xbmc.kodi
 
 Apple iOS: https://kodi.tv/download
 
-Rasberry Pi: https://kodi.wiki/view/HOW-TO:Install_Kodi_on_Raspberry_Pi
+Rasberry Pi: https://kodi.tv/download/853
 
 # Installation
 
@@ -34,7 +36,6 @@ After Kodi is download is finished for your device,now open Kodi and click to Se
 Now radio should work on Kodi.
 
 For more see this guide:
-
 https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file
 
 
