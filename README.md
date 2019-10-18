@@ -21,11 +21,11 @@ Windows: http://kodi.tv/download/849
 
 Linux: https://kodi.tv/download/850
 
-MacOS: https://kodi.tv/download/854
+MacOS: https://kodi.tv/download/851
 
 Android: https://play.google.com/store/apps/details?id=org.xbmc.kodi
 
-Apple iOS: https://kodi.tv/download
+Apple iOS: https://kodi.tv/download/854
 
 Rasberry Pi: https://kodi.tv/download/853
 
