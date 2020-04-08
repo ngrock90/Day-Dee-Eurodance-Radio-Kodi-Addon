@@ -26,7 +26,7 @@ This is Kodi addon/plugin for Day Dee Eurodance Radio created 2019 by Ngrock90 f
 
 # How to use
 
-Before downloading Day Dee Eurodance Radio Kodi addon or plugin you need to download Kodi mobile app or desktop program first.
+Before downloading Day Dee Eurodance Radio Kodi addon or plugin you need to download first Kodi mobile app or desktop program.
 
 Here is links for downloading Kodi:
 
