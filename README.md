@@ -8,7 +8,7 @@ Kodi plugin/addon for Day Dee Eurodance Radio
 
 https://daydeeeurodance.blogspot.com
 
-https://eurodance.ga
+daydeeeurodance.blogspot com
 
 https://laut.fm/daydeeeurodance
 
