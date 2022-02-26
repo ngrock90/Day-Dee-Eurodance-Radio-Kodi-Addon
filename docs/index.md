@@ -18,3 +18,7 @@ https://daydeeeurodance.stream.laut.fm/daydeeeurodance
 # Introduction
 
 This is Kodi addon/plugin for Day Dee Eurodance Radio created 2019 by Ngrock90 from C.O.D Lab.
+
+# Download
+
+<p align="center"><a href="https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/releases">Download Addon</a>
