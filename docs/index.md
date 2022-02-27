@@ -7,7 +7,7 @@ This is Kodi addon/plugin for Day Dee Eurodance Radio created 2019 by Ngrock90 f
 
 <p align="center">|<a href="https://daydeeeurodance.blogspot.com">Official radio site</a>|
 
-
+</p>
 
 # Stream radio
 
