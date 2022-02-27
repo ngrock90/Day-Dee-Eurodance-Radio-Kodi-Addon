@@ -4,7 +4,7 @@ Kodi plugin/addon for Day Dee Eurodance Radio
 
 <a href="https://daydeeeurodance.blogspot.com">Official site</a>
 
-</p><br>
+</p>
 
 # Stream radio
 
