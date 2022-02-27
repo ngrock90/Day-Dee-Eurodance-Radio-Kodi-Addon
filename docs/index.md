@@ -5,9 +5,8 @@
 This is Kodi addon/plugin for Day Dee Eurodance Radio created 2019 by Ngrock90 from C.O.D Lab.
 
 
-<p align="center">|<a href="https://daydeeeurodance.blogspot.com">Official radio site</a>|
+<a href="https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/blob/master/README.md">Readme</a> | <a href="https://daydeeeurodance.blogspot.com">Official radio site</a>
 
-</p>
 
 # Stream radio
 
@@ -15,4 +14,4 @@ This is Kodi addon/plugin for Day Dee Eurodance Radio created 2019 by Ngrock90 f
 
 # Download
 
-<p align="center">|<a href="https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/releases">Download Addon</a>|
+| <a href="https://github.com/ngrock90/Day-Dee-Eurodance-Radio-Kodi-Addon/releases">Download Addon</a> |
